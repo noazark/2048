@@ -1,5 +1,9 @@
 # 2048
 
+A flagrant clone of a clone for my own pure enjoyment.
+
+[Give it a play](https://noazark.github.io/)
+
 ## Project setup
 ```
 npm install
